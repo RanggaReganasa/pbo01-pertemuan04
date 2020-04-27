@@ -10,7 +10,7 @@ public class main2 {
             isiGelas++;
             System.out.println("Sedang mengisi gelas.. ");
             System.out.println("Isi gelas sekarang : " + isiGelas + "ml");
-        } while (isiGelas != penuh)
+        } while (isiGelas != penuh);
 
         System.out.println("Finale isi gelas sekarang : " + isiGelas + "ml");
     }
